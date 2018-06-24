@@ -1,5 +1,5 @@
 # SpaceLovers
-SpaceLovers is a SpaceInvaders Remake game Made in **Lua**
+SpaceLovers is a SpaceInvaders Remake game Made in **Lua**.
 
 ## Technologies and Contribution
 
